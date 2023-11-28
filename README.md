@@ -1,2 +1,2 @@
-# DATA240-DL-SocialPulse
-Deep Learning Project @ SJSU
+# DATA240-DM-caML
+Data Mining Project @ SJSU
